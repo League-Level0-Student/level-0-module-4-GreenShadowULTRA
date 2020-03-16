@@ -10,6 +10,7 @@ import javax.swing.JOptionPane;
  * will calculate how much money I have without me having to use my brain. Then
  * make me a sandwich.
  */
+//test
 public class ChangeCalculator {
 
 	public static void main(String[] args) {
